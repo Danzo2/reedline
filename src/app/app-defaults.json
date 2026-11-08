@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "appId": "toolcraft",
+  "state": {
+    "values": {
+      "export.includeBackground": true,
+      "appearance.background": "#000000",
+      "canvas.workspaceBackground": "dots",
+      "canvas.aspectRatio": {
+        "height": 9,
+        "mode": "preset",
+        "value": "16:9",
+        "width": 16
+      },
+      "canvas.size.width": 1920,
+      "canvas.size.height": 1080,
+      "canvas.renderScale": 2,
+      "glass.amount": 2,
+      "glass.dispersion": 0.64,
+      "glass.frost": 0,
+      "glass.reflection": 0,
+      "glass.reflectionScale": 0.1,
+      "pattern.type": "fluted",
+      "pattern.repeats": 29,
+      "pattern.angle": 0,
+      "pattern.contrast": 0,
+      "pattern.imperfections": 0,
+      "pattern.imperfectionScale": 1,
+      "motion.shiftSpeed": 1,
+      "noise.amount": 0,
+      "noise.size": 0.5,
+      "export.image.format": "png",
+      "export.image.resolution": "4k",
+      "export.video.format": "mp4",
+      "export.video.resolution": "current"
+    },
+    "canvas": {
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "height": 1080,
+        "unit": "px",
+        "width": 1920
+      },
+      "zoom": 100,
+      "mode": "finite"
+    },
+    "panels": {
+      "controls": {
+        "collapsedSections": {},
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "scrollTop": 0
+      },
+      "layers": {
+        "offset": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "timeline": {
+        "offset": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "toolbar": {
+        "offset": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    "timeline": {
+      "currentTimeSeconds": 0.9407000000119383,
+      "durationSeconds": 5,
+      "expanded": false,
+      "isLooping": true,
+      "isPlaying": true,
+      "selectedKeyframeId": null,
+      "keyframeGroups": []
+    },
+    "layers": [],
+    "selectedLayerId": null,
+    "mediaAssets": []
+  },
+  "resources": [],
+  "theme": "dark"
+}
